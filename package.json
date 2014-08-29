@@ -22,15 +22,12 @@
         "cli",
         "es6",
         "ECMAScript6",
+        "ES.next",
+        "harmony",
         "repl",
         "Traceur"
     ],
-    "licenses": [
-        {
-            "type": "MIT",
-            "url": "https://raw.github.com/cncolder/traceurepl/master/LICENSE"
-        }
-    ],
+    "licenses": "MIT",
     "main": "index.js",
     "name": "traceurepl",
     "peerDependencies": {
