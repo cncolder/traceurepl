@@ -1,0 +1,42 @@
+{
+    "author": "Colder <cncolder@gmail.com>",
+    "bin": {
+        "traceurepl": "./bin/traceurepl"
+    },
+    "bundleDependencies": [],
+    "dependencies": {},
+    "description": "Traceur repl. Type es6 script then show compiled script and result.",
+    "devDependencies": {
+        "mocha": "^1.21.4",
+        "traceur": ""
+    },
+    "engines": {},
+    "homepage": "https://github.com/cncolder/traceurepl",
+    "keywords": [
+        "cli",
+        "es6",
+        "ECMAScript6",
+        "repl",
+        "Traceur"
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://raw.github.com/cncolder/traceurepl/master/LICENSE"
+        }
+    ],
+    "main": "index.js",
+    "name": "traceurepl",
+    "peerDependencies": {
+        "traceur": ""
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/cncolder/traceurepl.git"
+    },
+    "scripts": {
+        "start": "node .",
+        "test": "mocha"
+    },
+    "version": "0.1.0"
+}
