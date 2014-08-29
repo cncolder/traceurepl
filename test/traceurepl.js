@@ -1,5 +1,5 @@
 import assert         from 'assert';
-import { Traceurepl } from '../traceurepl';
+import { Traceurepl } from '../lib/traceurepl';
 
 
 describe('Traceurepl', () => {

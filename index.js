@@ -1,4 +1,4 @@
-require('./traceurequire');
+require('./lib/traceurequire');
 
-var Traceurepl = require('./traceurepl').Traceurepl;
+var Traceurepl = require('./lib/traceurepl').Traceurepl;
 new Traceurepl().start();

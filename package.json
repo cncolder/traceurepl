@@ -11,6 +11,12 @@
         "traceur": ""
     },
     "engines": {},
+    "files": [
+        "bin",
+        "lib",
+        "index.js",
+        "LICENSE"
+    ],
     "homepage": "https://github.com/cncolder/traceurepl",
     "keywords": [
         "cli",

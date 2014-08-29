@@ -1,2 +1,2 @@
---compilers js:./traceurequire
+--compilers js:./lib/traceurequire
 --check-leaks
