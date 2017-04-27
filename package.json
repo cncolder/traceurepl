@@ -7,7 +7,7 @@
     "dependencies": {},
     "description": "Traceur repl. Type es6 script then show compiled script and result.",
     "devDependencies": {
-        "mocha": "^1.21.4",
+        "mocha": "^3.3.0",
         "traceur": ""
     },
     "engines": {},
