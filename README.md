@@ -1,6 +1,8 @@
 traceurepl
 ==========
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/cncolder/traceurepl.svg)](https://greenkeeper.io/)
+
 Traceur repl. Type es6 script then show compiled script and result.
 
 
